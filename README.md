@@ -29,4 +29,8 @@ A simple and secure login and registration system built using **PHP**, **MySQL**
 2. Copy the project into your XAMPP `htdocs` folder.
 3. Start **Apache** and **MySQL** from XAMPP Control Panel.
 4. Go to [phpMyAdmin](http://localhost/phpmyadmin) and import the database file (e.g., `users.sql`).
-5. Access the project in your browser:  
+5. Access the project in your browser:
+6. ![Screenshot 2025-06-15 133246](https://github.com/user-attachments/assets/b1ac8920-c152-4763-aa6d-ded921a13806)
+7. ![Screenshot 2025-06-15 133319](https://github.com/user-attachments/assets/eba78d97-803a-4027-836d-a54184691f4b)
+
+
